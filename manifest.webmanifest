@@ -1,0 +1,15 @@
+{
+  "name": "Nice List Movies",
+  "short_name": "Nice List",
+  "description": "Rank your Christmas movies and let fate pick tonight's watch.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b2018",
+  "theme_color": "#0b2018",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
